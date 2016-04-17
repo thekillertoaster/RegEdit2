@@ -1,0 +1,17 @@
+N:\coding\visual studio\regedit2\WindowsFormsApplication2\bin\Debug\RegEdit2.exe.config
+N:\coding\visual studio\regedit2\WindowsFormsApplication2\bin\Debug\RegEdit2.exe
+N:\coding\visual studio\regedit2\WindowsFormsApplication2\bin\Debug\RegEdit2.pdb
+N:\coding\visual studio\regedit2\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.Form1.resources
+N:\coding\visual studio\regedit2\WindowsFormsApplication2\obj\Debug\RegEdit2.Properties.Resources.resources
+N:\coding\visual studio\regedit2\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.csproj.GenerateResource.Cache
+N:\coding\visual studio\regedit2\WindowsFormsApplication2\obj\Debug\RegEdit2.exe
+N:\coding\visual studio\regedit2\WindowsFormsApplication2\obj\Debug\RegEdit2.pdb
+C:\Users\toaster\Documents\regedit2\WindowsFormsApplication2\bin\Debug\RegEdit2.exe.config
+C:\Users\toaster\Documents\regedit2\WindowsFormsApplication2\obj\Debug\RegEdit2.exe
+C:\Users\toaster\Documents\regedit2\WindowsFormsApplication2\obj\Debug\RegEdit2.pdb
+C:\Users\toaster\Documents\regedit2\WindowsFormsApplication2\bin\Debug\RegEdit2.exe
+C:\Users\toaster\Documents\regedit2\WindowsFormsApplication2\bin\Debug\RegEdit2.pdb
+C:\Users\toaster\Documents\regedit2\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.csprojResolveAssemblyReference.cache
+C:\Users\toaster\Documents\regedit2\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.Form1.resources
+C:\Users\toaster\Documents\regedit2\WindowsFormsApplication2\obj\Debug\RegEdit2.Properties.Resources.resources
+C:\Users\toaster\Documents\regedit2\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.csproj.GenerateResource.Cache
